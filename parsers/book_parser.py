@@ -34,6 +34,10 @@ class BookParser:
     def price(self):
         locator = BookLocators.PRICE
         price_str = self.parent.select_one(locator).string
+        pattern = '[0-9]{1,}\.[0-9]{2}'
+        match = re.search(pattern, price_str)
+        price_fl = float(match.group(0))
+        return price_fl
 
     @property
     def stock(self):

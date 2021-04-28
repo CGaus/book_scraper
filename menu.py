@@ -4,8 +4,8 @@ from generators.book_generator import BookGenerator
 book_list = BookGenerator(books)
 
 
-def choose():
-    choice = input('''
+def get_input():
+    return input('''
     Please select an option from the list below:
 
     Enter 'n' to display the next book
@@ -16,27 +16,16 @@ def choose():
     
     Enter your selection here: ''')
 
-    while choice != 'q':
-        if choice == 'n':
-            next_book()
-        elif choice == 'p':
-            prev_book()
-        elif choice == 'c':
-            find_cheapest_book()
-        elif choice == 'r':
-            find_highest_rated()
-        else:
-            print('That is not a valid choice')
-        choose()
-
 
 def find_cheapest_book():
+    print('---Top 5 Cheapest Books---')
     cheapest_books = sorted(books, key=lambda x: x.price)[:5]
     for book in cheapest_books:
         print(book)
 
 
 def find_highest_rated():
+    print("---Top 5 Highest Rated Books---")
     best_books = sorted(books, key=lambda x: x.rating*-1)[:5]
     for book in best_books:
         print(book)
@@ -50,5 +39,24 @@ def prev_book():
     book_list.prev_book
 
 
-choose()
+user_choices = {
+    "n": next_book,
+    "p": prev_book,
+    "c": find_cheapest_book,
+    "r": find_highest_rated,
+}
+
+
+def menu():
+    user_input = get_input()
+
+    while user_input != 'q':
+        if user_input in user_choices:
+            user_choices[user_input]()
+        else:
+            print('That is not a valid choice')
+        user_input = get_input()
+
+
+menu()
 

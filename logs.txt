@@ -1,0 +1,237 @@
+01-05-2021 15:12:12 INFO     [app.py:13] Loading books list...
+01-05-2021 15:12:12 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:12 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-1.html HTTP/1.1" 200 None
+01-05-2021 15:12:12 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:12 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-1.html HTTP/1.1" 200 None
+01-05-2021 15:12:12 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:12 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-2.html HTTP/1.1" 200 None
+01-05-2021 15:12:12 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:12 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-3.html HTTP/1.1" 200 None
+01-05-2021 15:12:12 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:13 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-4.html HTTP/1.1" 200 None
+01-05-2021 15:12:13 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:13 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-5.html HTTP/1.1" 200 None
+01-05-2021 15:12:13 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:13 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-6.html HTTP/1.1" 200 None
+01-05-2021 15:12:13 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:13 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-7.html HTTP/1.1" 200 None
+01-05-2021 15:12:13 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:13 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-8.html HTTP/1.1" 200 None
+01-05-2021 15:12:13 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:13 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-9.html HTTP/1.1" 200 None
+01-05-2021 15:12:14 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:14 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-10.html HTTP/1.1" 200 None
+01-05-2021 15:12:14 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:14 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-11.html HTTP/1.1" 200 None
+01-05-2021 15:12:14 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:14 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-12.html HTTP/1.1" 200 None
+01-05-2021 15:12:14 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:14 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-13.html HTTP/1.1" 200 None
+01-05-2021 15:12:14 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:14 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-14.html HTTP/1.1" 200 None
+01-05-2021 15:12:14 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:15 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-15.html HTTP/1.1" 200 None
+01-05-2021 15:12:15 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:15 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-16.html HTTP/1.1" 200 None
+01-05-2021 15:12:15 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:15 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-17.html HTTP/1.1" 200 None
+01-05-2021 15:12:15 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:15 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-18.html HTTP/1.1" 200 None
+01-05-2021 15:12:15 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:15 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-19.html HTTP/1.1" 200 None
+01-05-2021 15:12:15 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:15 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-20.html HTTP/1.1" 200 None
+01-05-2021 15:12:16 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:16 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-21.html HTTP/1.1" 200 None
+01-05-2021 15:12:16 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:16 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-22.html HTTP/1.1" 200 None
+01-05-2021 15:12:16 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:16 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-23.html HTTP/1.1" 200 None
+01-05-2021 15:12:16 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:16 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-24.html HTTP/1.1" 200 None
+01-05-2021 15:12:16 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:16 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-25.html HTTP/1.1" 200 None
+01-05-2021 15:12:16 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:17 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-26.html HTTP/1.1" 200 None
+01-05-2021 15:12:17 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:17 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-27.html HTTP/1.1" 200 None
+01-05-2021 15:12:17 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:17 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-28.html HTTP/1.1" 200 None
+01-05-2021 15:12:17 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:17 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-29.html HTTP/1.1" 200 None
+01-05-2021 15:12:17 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:17 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-30.html HTTP/1.1" 200 None
+01-05-2021 15:12:17 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:17 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-31.html HTTP/1.1" 200 None
+01-05-2021 15:12:18 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:18 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-32.html HTTP/1.1" 200 None
+01-05-2021 15:12:18 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:18 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-33.html HTTP/1.1" 200 None
+01-05-2021 15:12:18 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:18 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-34.html HTTP/1.1" 200 None
+01-05-2021 15:12:18 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:18 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-35.html HTTP/1.1" 200 None
+01-05-2021 15:12:18 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:18 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-36.html HTTP/1.1" 200 None
+01-05-2021 15:12:18 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:19 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-37.html HTTP/1.1" 200 None
+01-05-2021 15:12:19 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:19 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-38.html HTTP/1.1" 200 None
+01-05-2021 15:12:19 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:19 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-39.html HTTP/1.1" 200 None
+01-05-2021 15:12:19 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:19 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-40.html HTTP/1.1" 200 None
+01-05-2021 15:12:19 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:19 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-41.html HTTP/1.1" 200 None
+01-05-2021 15:12:19 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:20 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-42.html HTTP/1.1" 200 None
+01-05-2021 15:12:20 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:20 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-43.html HTTP/1.1" 200 None
+01-05-2021 15:12:20 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:20 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-44.html HTTP/1.1" 200 None
+01-05-2021 15:12:20 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:20 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-45.html HTTP/1.1" 200 None
+01-05-2021 15:12:20 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:20 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-46.html HTTP/1.1" 200 None
+01-05-2021 15:12:20 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:20 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-47.html HTTP/1.1" 200 None
+01-05-2021 15:12:20 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:21 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-48.html HTTP/1.1" 200 None
+01-05-2021 15:12:21 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:12:21 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-49.html HTTP/1.1" 200 None
+01-05-2021 15:17:15 INFO     [app.py:13] Loading books list...
+01-05-2021 15:17:15 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:15 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-1.html HTTP/1.1" 200 None
+01-05-2021 15:17:15 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:16 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-1.html HTTP/1.1" 200 None
+01-05-2021 15:17:16 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:16 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:16 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-2.html HTTP/1.1" 200 None
+01-05-2021 15:17:16 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:16 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:16 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-3.html HTTP/1.1" 200 None
+01-05-2021 15:17:16 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:16 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:16 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-4.html HTTP/1.1" 200 None
+01-05-2021 15:17:16 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:16 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:16 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-5.html HTTP/1.1" 200 None
+01-05-2021 15:17:16 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:16 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:17 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-6.html HTTP/1.1" 200 None
+01-05-2021 15:17:17 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:17 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:17 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-7.html HTTP/1.1" 200 None
+01-05-2021 15:17:17 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:17 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:17 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-8.html HTTP/1.1" 200 None
+01-05-2021 15:17:17 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:17 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:17 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-9.html HTTP/1.1" 200 None
+01-05-2021 15:17:17 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:17 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:17 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-10.html HTTP/1.1" 200 None
+01-05-2021 15:17:17 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:17 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:17 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-11.html HTTP/1.1" 200 None
+01-05-2021 15:17:17 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:17 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:18 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-12.html HTTP/1.1" 200 None
+01-05-2021 15:17:18 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:18 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:18 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-13.html HTTP/1.1" 200 None
+01-05-2021 15:17:18 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:18 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:18 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-14.html HTTP/1.1" 200 None
+01-05-2021 15:17:18 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:18 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:18 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-15.html HTTP/1.1" 200 None
+01-05-2021 15:17:18 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:18 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:18 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-16.html HTTP/1.1" 200 None
+01-05-2021 15:17:18 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:18 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:19 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-17.html HTTP/1.1" 200 None
+01-05-2021 15:17:19 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:19 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:19 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-18.html HTTP/1.1" 200 None
+01-05-2021 15:17:19 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:19 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:19 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-19.html HTTP/1.1" 200 None
+01-05-2021 15:17:19 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:19 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:19 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-20.html HTTP/1.1" 200 None
+01-05-2021 15:17:19 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:19 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:19 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-21.html HTTP/1.1" 200 None
+01-05-2021 15:17:19 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:19 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:19 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-22.html HTTP/1.1" 200 None
+01-05-2021 15:17:19 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:20 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:20 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-23.html HTTP/1.1" 200 None
+01-05-2021 15:17:20 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:20 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:20 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-24.html HTTP/1.1" 200 None
+01-05-2021 15:17:20 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:20 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:20 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-25.html HTTP/1.1" 200 None
+01-05-2021 15:17:20 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:20 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:20 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-26.html HTTP/1.1" 200 None
+01-05-2021 15:17:20 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:20 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:20 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-27.html HTTP/1.1" 200 None
+01-05-2021 15:17:20 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:20 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:21 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-28.html HTTP/1.1" 200 None
+01-05-2021 15:17:21 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:21 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:21 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-29.html HTTP/1.1" 200 None
+01-05-2021 15:17:21 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:21 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:21 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-30.html HTTP/1.1" 200 None
+01-05-2021 15:17:21 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:21 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:21 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-31.html HTTP/1.1" 200 None
+01-05-2021 15:17:21 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:21 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:21 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-32.html HTTP/1.1" 200 None
+01-05-2021 15:17:21 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:21 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:21 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-33.html HTTP/1.1" 200 None
+01-05-2021 15:17:22 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:22 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:22 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-34.html HTTP/1.1" 200 None
+01-05-2021 15:17:22 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:22 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:22 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-35.html HTTP/1.1" 200 None
+01-05-2021 15:17:22 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:22 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:22 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-36.html HTTP/1.1" 200 None
+01-05-2021 15:17:22 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:22 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:22 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-37.html HTTP/1.1" 200 None
+01-05-2021 15:17:22 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:22 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:22 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-38.html HTTP/1.1" 200 None
+01-05-2021 15:17:22 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:23 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:23 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-39.html HTTP/1.1" 200 None
+01-05-2021 15:17:23 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:23 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:23 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-40.html HTTP/1.1" 200 None
+01-05-2021 15:17:23 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:23 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:23 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-41.html HTTP/1.1" 200 None
+01-05-2021 15:17:23 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:23 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:23 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-42.html HTTP/1.1" 200 None
+01-05-2021 15:17:23 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:23 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:23 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-43.html HTTP/1.1" 200 None
+01-05-2021 15:17:23 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:23 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+01-05-2021 15:17:24 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-44.html HTTP/1.1" 200 None
+01-05-2021 15:17:24 DEBUG    [app.py:21] Creating BooksPAGE from page content.
+01-05-2021 15:17:24 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80

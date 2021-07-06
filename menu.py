@@ -1,5 +1,9 @@
+import logging
+
 from app import books
 from generators.book_generator import BookGenerator
+
+logger = logging.getLogger('scraping.menu')
 
 book_list = BookGenerator(books)
 
@@ -18,6 +22,7 @@ def get_input():
 
 
 def find_cheapest_book():
+    logger.info('Finding cheapest books...')
     print('---Top 5 Cheapest Books---')
     cheapest_books = sorted(books, key=lambda x: x.price)[:5]
     for book in cheapest_books:
@@ -25,6 +30,7 @@ def find_cheapest_book():
 
 
 def find_highest_rated():
+    logger.info('Finding highest rated books...')
     print("---Top 5 Highest Rated Books---")
     best_books = sorted(books, key=lambda x: x.rating*-1)[:5]
     for book in best_books:
@@ -32,10 +38,12 @@ def find_highest_rated():
 
 
 def next_book():
+    logger.info('Getting next book...')
     book_list.next_book
 
 
 def prev_book():
+    logger.info('Getting previous book...')
     book_list.prev_book
 
 
@@ -56,6 +64,7 @@ def menu():
         else:
             print('That is not a valid choice')
         user_input = get_input()
+    logger.debug("Terminating program.")
 
 
 menu()

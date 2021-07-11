@@ -1,11 +1,12 @@
 import re
 import logging
-from bs4 import BeautifulSoup
 
+from bs4 import BeautifulSoup
 from locators.book_page_locator import BookPageLocator
 from parsers.book_parser import BookParser
 
 logger = logging.getLogger('scraping.all_books_page')
+
 
 class BooksPage:
     def __init__(self, page):
